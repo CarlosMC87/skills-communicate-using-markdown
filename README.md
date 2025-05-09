@@ -1,6 +1,3 @@
-# Exemple de titol H1
-### Exemple de titol H3
-###### Exemple de titol H6
 <header>
 
 <!--
